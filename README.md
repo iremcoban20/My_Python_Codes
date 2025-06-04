@@ -14,3 +14,4 @@ Bu proje, Python kullanılarak geliştirilmiş basit bir metin şifreleyicidir. 
 python sifrele.py
 
 ![Ekran Görüntüsü](sifreleme_ekran.png)
+
