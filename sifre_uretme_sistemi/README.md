@@ -13,5 +13,5 @@ Bu proje, Python kullanılarak geliştirilmiş basit bir metin şifreleyicidir. 
 ```bash
 python sifrele.py
 
-![Ekran Görüntüsü](sifreleme_ekran.png)
+![Ekran Görüntüsü](sifreleme_ekran.png.png)
 
