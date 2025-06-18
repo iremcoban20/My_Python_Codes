@@ -6,7 +6,7 @@ from openpyxl import Workbook, load_workbook
 import os
 import win32com.client  # Sadece Windows için çalışır durumda
 
-EXCEL_DOSYASI = "sifreler.xlsx"
+EXCEL_DOSYASI = "sifreler2.xlsx"
 
 def sifre_uret(uzunluk, buyuk_harf=True, kucuk_harf=True, rakam=True, sembol=True):
     karakter_havuzu = ''
